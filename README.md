@@ -11,8 +11,8 @@ Sample Link: https://ark.intel.com/content/www/us/en/ark/products/212325/intel-c
 BeautifulSoup, termcolor, requests
 
 # How to open
-Windows - python File_Name.py
-Linux & Mac OS - python3 File_Name.py
+1.Windows - python File_Name.py
+2.Linux & Mac OS - python3 File_Name.py
 
 # More Info
 For creating this web scraper, i used information from -
