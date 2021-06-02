@@ -7,7 +7,12 @@ works for https://ark.intel.com/content/ - to scrap processor information
 Sample Link: https://ark.intel.com/content/www/us/en/ark/products/212325/intel-core-i9-11900k-processor-16m-cache-up-to-5-30-ghz.html
 3. The information will be displayed and also be saved to a file!
 
-# Usage
+# Install these before running the .py
+BeautifulSoup, termcolor, requests
+
+# How to open
+Windows - python File_Name.py
+Linux & Mac OS - python3 File_Name.py
 
 # More Info
 For creating this web scraper, i used information from -
