@@ -11,7 +11,7 @@ Sample Link: https://ark.intel.com/content/www/us/en/ark/products/212325/intel-c
 BeautifulSoup, termcolor, requests
 
 # How to open
-python File_Name.py or python3 File_Name.py
+python script.py or python3 script.py
 
 # More Info
 For creating this web scraper, i used information from -
