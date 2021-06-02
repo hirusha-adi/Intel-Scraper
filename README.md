@@ -1,6 +1,9 @@
 # Intel-Scraper
 works for https://ark.intel.com/content/ - to scrap processor information 
 
+![image](https://user-images.githubusercontent.com/36286877/120432607-cb1bb200-c397-11eb-9adf-3686ea550346.png)
+
+
 # Usage ( for .exe, downloaded from releases )
 1. Double click on the excecutable file and open i!
 2. Paste the website link of the needed Intel Processor
